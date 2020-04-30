@@ -6,11 +6,11 @@ Technologies:-
 Node.JS Express
 
 Instructions to use API:-
-For specific word URL to enter in the postman: http://206.81.14.184/:name
-Request Type: Get
-Set headers: Content-Type to application/x-www-form-urlencoded
-In: Params
-In URL write any word in replace of name
-For example:- http://206.81.14.184/ShalvikShah
+For specific word URL to enter in the postman: http://206.81.14.184/:name,
+Request Type: Get,
+Set headers: Content-Type to application/x-www-form-urlencoded,
+In: Params,
+In URL write any word in replace of name,
+For example:- http://206.81.14.184/ShalvikShah,
 It will search the results for ShalvikShah and return JSON data from the azure bing web search API.
 
