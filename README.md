@@ -1,6 +1,6 @@
 # Bing_Web_Search_API
 
-This is a REST API sending get requst which takes name as a params that name is a user wants to search in a Bing webpage. API gets request from the Azure cognitive service in that subpart it calls bing web search url and fetch all the details as par the condition. The output of the API is all the corresponding URL's related to that specific word. Anyone can use this API to search a specific word from the Internet.
+This is a REST API sending get requst which takes user input as a params and will search in a Bing webpage. API gets request from the Azure cognitive service in that subpart it calls bing web search url and fetch all the details as per the condition. The output of the API is all the corresponding URL's related to that specific word. Anyone can use this API to search a specific word from the Internet.
 
 Technologies:-
 Node.JS Express
